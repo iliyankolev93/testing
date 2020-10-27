@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.exe
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.deps.json
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.runtimeconfig.json
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.dll
+C:\Users\Acer\source\repos\crawling an array\crawling an array\bin\Debug\netcoreapp3.1\crawling an array.pdb
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.AssemblyInfo.cs
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.dll
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.pdb
+C:\Users\Acer\source\repos\crawling an array\crawling an array\obj\Debug\netcoreapp3.1\crawling an array.genruntimeconfig.cache
